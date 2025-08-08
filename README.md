@@ -22,7 +22,7 @@ To perform **K-Means clustering** on air pollution data to:
 - **Rows:** 3,347
 - **Columns:** 5 (SO₂, NO₂, O₃, PM₂.₅, PM₁₀)
 - **Missing Values:** None
-- **Source:** Provided as part of Postgraduate Diploma coursework
+
 
 ## Methodology
 
